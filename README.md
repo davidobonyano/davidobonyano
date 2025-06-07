@@ -1,12 +1,28 @@
- 👨‍💻 Captain Dave | Aspiring Full Stack Developer
+## 👨‍💻 Captain Dave | Aspiring Full Stack Developer
 
-Hi there! I'm Dave, a passionate and motivated developer actively learning and building my skills in full stack web development. I'm currently focused on mastering front-end technologies while exploring back-end development and software engineering fundamentals.
+# Hi there! I'm Dave, a passionate and motivated developer actively learning and building my skills in full stack web development. I'm currently focused on mastering front-end technologies while exploring back-end development and software engineering fundamentals.
 
 ---
+## 🤝 Connect with Me
 
- 🧠 Skills & Learning Journey
+<p align="left">
+  <a href="https://www.linkedin.com/in/david-obonyano-bb3478256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://x.com/davidalocaefe?s=21" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/david_efe6?igsh=ZG90OXJ6eHJkNGF2&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge" />
+  </a>
+  <a href="mailto:godsentryan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
 
- 🚀 Frontend Development
+## 🧠 Skills & Learning Journey
+
+ # 🚀 Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -21,7 +37,7 @@ Hi there! I'm Dave, a passionate and motivated developer actively learning and b
 ### 🛠️ Backend & Full Stack Tools (Learning Stage)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,php,python,java" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,php,java" />
 </p>
 
 | Technology     | Proficiency |
