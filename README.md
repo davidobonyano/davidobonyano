@@ -1,7 +1,7 @@
 
-👨‍💻 Captain Dave | Aspiring Full Stack Developer
+👨‍💻 Captain Dave |  Full Stack Developer
 
-Hi there! I’m Dave, a passionate and motivated developer actively learning and building my skills in full stack web development. I’m currently focused on mastering front-end technologies while exploring back-end development and software engineering fundamentals.
+Hi there! I’m Dave, a passionate and motivated developer actively learning and building my skills in full stack web development.and software engineering fundamentals.
 
 🤝 Connect with Me
 
@@ -28,29 +28,11 @@ Hi there! I’m Dave, a passionate and motivated developer actively learning and
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" />
 </p>
-
-
-Technology	Proficiency
-HTML	        ██████████░░ 90%
-CSS	        █████████░░░ 85%
-Tailwind CSS	█████████░░░ 80%
-JavaScript	███████░░░░░ 60%
-TypeScript	█████████░░░ 80%
-
 🛠️ Backend & Full Stack Tools (Learning Stage)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,php,java,python" />
 </p>
-
-
-Technology	Proficiency
-React	   ████████░░░░ 70%
-Node.js	   ░░░░░░░░░░ 0%
-Express.js░░░░░░░░░░ 0%
-MongoDB	░░░░░░░░░░ 0%
-MySQL	░░░░░░░░░░ 0%
-
 
 🔧 Tools & Platforms
 
