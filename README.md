@@ -36,8 +36,8 @@ Hi there! I'm Dave, a passionate and motivated developer actively learning and b
 | HTML             | ██████████░░ 90%     |
 | CSS              | █████████░░░ 85%     |
 | Tailwind CSS     | █████████░░░ 80%     |
-| JavaScript       | ███████░░░░░ 60%     |
-| TypeScript       | ░░░░░░░░░░ 0%        |
+| JavaScript       | ███████░░░░░ 80%     |
+| TypeScript       | ░░░░░░░░░░ 70%        |
 
 ---
 
@@ -49,7 +49,7 @@ Hi there! I'm Dave, a passionate and motivated developer actively learning and b
 
 | Technology     | Proficiency       |
 |----------------|--------------------|
-| React          | ░░░░░░░░░░ 0%      |
+| React          | ░░░░░░░░░░ 80%      |
 | Node.js        | ░░░░░░░░░░ 0%      |
 | Express.js     | ░░░░░░░░░░ 0%      |
 | MongoDB        | ░░░░░░░░░░ 0%      |
