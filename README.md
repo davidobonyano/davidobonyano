@@ -1,3 +1,4 @@
+
 👨‍💻 Captain Dave | Aspiring Full Stack Developer
 
 Hi there! I’m Dave, a passionate and motivated developer actively learning and building my skills in full stack web development. I’m currently focused on mastering front-end technologies while exploring back-end development and software engineering fundamentals.
@@ -30,8 +31,8 @@ Hi there! I’m Dave, a passionate and motivated developer actively learning and
 
 
 Technology	Proficiency
-HTML	██████████░░ 90%
-CSS	█████████░░░ 85%
+HTML	        ██████████░░ 90%
+CSS	        █████████░░░ 85%
 Tailwind CSS	█████████░░░ 80%
 JavaScript	███████░░░░░ 60%
 TypeScript	█████████░░░ 80%
@@ -44,21 +45,12 @@ TypeScript	█████████░░░ 80%
 
 
 Technology	Proficiency
-React	████████░░░░ 70%
-Node.js	░░░░░░░░░░ 0%
-Express.js	░░░░░░░░░░ 0%
+React	   ████████░░░░ 70%
+Node.js	   ░░░░░░░░░░ 0%
+Express.js░░░░░░░░░░ 0%
 MongoDB	░░░░░░░░░░ 0%
 MySQL	░░░░░░░░░░ 0%
-PHP	░░░░░░░░░░ 0%
-Python	░░░░░░░░░░ 0%
-Java	░░░░░░░░░░ 0%
 
-📚 Currently Learning
-	•	Advanced JavaScript (DOM, ES6+, async)
-	•	Responsive Web Design
-	•	Git & GitHub (Version Control)
-	•	TypeScript Fundamentals
-	•	Full Stack Roadmap (MERN stack)
 
 🔧 Tools & Platforms
 
@@ -67,14 +59,6 @@ Java	░░░░░░░░░░ 0%
 </p>
 
 
-🌱 Goals for 2025
-	•	✅ Master HTML, CSS, JavaScript & Tailwind CSS
-	•	⏳ Learn and build projects using React, Node.js, and TypeScript
-	•	🚀 Build and deploy full-stack apps (portfolio, blog, etc.)
-	•	📢 Contribute to open-source and collaborate with other developers
-
 	“Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Let’s connect and grow together as developers!
-
-Let me know if you also want to update the Node.js progress or redesign the bars to look cooler with visual progress indicators.
