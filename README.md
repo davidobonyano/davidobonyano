@@ -1,7 +1,7 @@
 
 👨‍💻 Captain Dave |  Full Stack Developer
 
-Hi there! I’m Dave, a passionate and motivated developer actively learning and building my skills in full stack web development.and software engineering fundamentals.
+Hi there! I’m Dave, a motivated developer actively learning and building my skills in full stack web development.and software engineering fundamentals.
 
 🤝 Connect with Me
 
