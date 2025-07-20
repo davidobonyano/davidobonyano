@@ -1,6 +1,6 @@
-# 👨‍💻 Captain Dave | Full Stack Developer
+# 👨‍💻 David Obonyano | Full Stack Developer
 
-Hi there! I’m Dave, a passionate and results-driven Full Stack Developer focused on building efficient, scalable, and user-friendly web applications. I have a strong foundation in modern frontend and backend technologies and continuously sharpen my skills in software engineering best practices.
+Hi there! I’m Dave, a results-driven Full Stack Developer focused on building efficient, scalable, and user-friendly web applications. I have a strong foundation in modern frontend and backend technologies and continuously sharpen my skills in software engineering best practices.
 
 ---
 
