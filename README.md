@@ -1,9 +1,10 @@
+# 👨‍💻 Captain Dave | Full Stack Developer
 
-👨‍💻 Captain Dave |  Full Stack Developer
+Hi there! I’m Dave, a passionate and results-driven Full Stack Developer focused on building efficient, scalable, and user-friendly web applications. I have a strong foundation in modern frontend and backend technologies and continuously sharpen my skills in software engineering best practices.
 
-Hi there! I’m Dave, a motivated developer actively learning and building my skills in full stack web development.and software engineering fundamentals.
+---
 
-🤝 Connect with Me
+## 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/david-obonyano-bb3478256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
@@ -20,27 +21,29 @@ Hi there! I’m Dave, a motivated developer actively learning and building my sk
   </a>
 </p>
 
+---
 
-🧠 Skills & Learning Journey
+## 🧠 Skills & Expertise
 
-🚀 Frontend Development
-
+### 🚀 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" />
-</p>
-🛠️ Backend & Full Stack Tools (Learning Stage)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,php,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-🔧 Tools & Platforms
+### 🛠️ Backend & Full Stack Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,java,python" />
+</p>
 
+### 🔧 Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
+---
 
-	“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-Let’s connect and grow together as developers!
+---
+
+**Let’s connect and build amazing things together!**
