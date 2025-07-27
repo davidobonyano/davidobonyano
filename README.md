@@ -32,12 +32,12 @@ Hi there! I’m Dave, a results-driven Full Stack Developer focused on building 
 
 ### 🛠️ Backend & Full Stack Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,java,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
