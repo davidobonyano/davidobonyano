@@ -1,10 +1,10 @@
-# 👨‍💻 David Obonyano | Full Stack Developer
+# David Obonyano | Full Stack Developer
 
 Hi there! I’m Dave, a results-driven Full Stack Developer focused on building efficient, scalable, and user-friendly web applications. I have a strong foundation in modern frontend and backend technologies and continuously sharpen my skills in software engineering best practices.
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/david-obonyano-bb3478256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
@@ -23,19 +23,19 @@ Hi there! I’m Dave, a results-driven Full Stack Developer focused on building 
 
 ---
 
-## 🧠 Skills & Expertise
+##  Skills & Expertise
 
-### 🚀 Frontend Development
+###  Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### 🛠️ Backend & Full Stack Tools
+###  Backend & Full Stack Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
